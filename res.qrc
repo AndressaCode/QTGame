@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Explosion8.mp3</file>
+        <file>Frantic-Gameplay.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>fire.png</file>
+        <file>landscape.png</file>
+        <file>player.png</file>
+        <file>steel_ball.png</file>
+        <file>ball.png</file>
+    </qresource>
+</RCC>
